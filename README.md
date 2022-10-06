@@ -1,1 +1,1 @@
-this repository contains solutions to shell task
+This repository containy contains solutions to shell permission task
