@@ -1,1 +1,1 @@
-my first commit
+this repository contains solutions to shell task
